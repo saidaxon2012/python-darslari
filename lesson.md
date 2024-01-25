@@ -1,3 +1,5 @@
+[Main menu](/README.md)
+
 # STRING (matn)
 
 - \t - bo'shliq tashlaydi.
