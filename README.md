@@ -1,6 +1,6 @@
 # python-darslari
 
-[STRING (matn)](/lesson.md)
+[STRING](/lesson.md)
 
 [LIST](/list.md)
 
