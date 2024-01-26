@@ -1,7 +1,7 @@
 # python-darslari
 
-[STRING](/lesson.md)
+[STRING](/string.md)
 
 [LIST](/list.md)
 
-[ROYXAT](/royxat.md)
+[Text](/text.md)
