@@ -4,4 +4,4 @@
 
 [LIST](/list.md)
 
-[Text](/text.md)
+[TEXT](/text.md)
