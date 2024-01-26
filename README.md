@@ -1,7 +1,7 @@
 # python-darslari
 
-[STRING](/string.md)
+[STRING](/String.md)
 
-[LIST](/list.md)
+[LIST](/List.md)
 
-[TEXT](/text.md)
+[TEXT](/Text.md)
