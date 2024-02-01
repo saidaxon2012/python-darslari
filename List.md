@@ -1,3 +1,5 @@
+[Main menu](/README.md)
+
 # Ro'yhat bilan ishlash
 
 ## Ro'yxatni tartiblash
